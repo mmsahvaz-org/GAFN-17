@@ -10,5 +10,3 @@ hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@185.126.255.78:21005/?sni=dxobg
 
 hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@23.132.228.217:38746/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
-hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@85.235.205.212:47481/?sni=dxobg4azmk.gafnode.sbs#SaintPetersburg-GetAFreeNode
-
