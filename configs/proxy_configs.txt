@@ -8,5 +8,5 @@ hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@172.252.236.213:56704/?sni=dxob
 
 hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@185.126.255.78:44594/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@23.132.228.217:59762/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@23.132.228.217:40449/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
