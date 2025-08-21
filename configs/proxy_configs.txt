@@ -4,5 +4,5 @@
 //support-url: https://t.me/BXAMbot
 //profile-web-page-url: https://github.com/4n0nymou3
 
-hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@185.126.255.78:49382/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
+hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@185.126.255.78:43429/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
